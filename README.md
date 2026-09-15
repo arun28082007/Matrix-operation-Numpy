@@ -25,7 +25,7 @@ A command-line application built in Python using the NumPy library to perform co
 
 1. Clone the repository or download the source code:
    ```bash
-   git clone [https://github.com/your-username/matrix-operations-tool.git](https://github.com/your-username/matrix-operations-tool.git)
+   git clone https://github.com/arun28082007/Matrix-operation-Numpy/tree/master
    cd matrix-operations-tool
 
  * Install the required dependencies:
@@ -58,8 +58,4 @@ Row 2: 4 5 6
  [2. 5.]
  [3. 6.]]
 --------------------
-
-Project Structure
-├── matrix_tool.py   # Main CLI tool script
-└── README.md        # Project documentation
 
